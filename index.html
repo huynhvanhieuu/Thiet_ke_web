@@ -1,7 +1,8 @@
 <html>
 <head>
+  <title>huynhvanhieu</title>
+ <head>
 <h1>xin chao toi la Hieu</h1>
-<head>
   <body>
     <img src="ntt.gif" alt="Nha tien tri" width="128" height="128">
 
