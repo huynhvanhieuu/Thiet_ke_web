@@ -5,7 +5,6 @@
   <h1> đang học tập tại trường Cao Đẳng Kỹ Thuật Công nghệ Nha Trang </h1>
   <html>
 <head>
-  <title>huynhvanhieu</title>
  <head>
 <h1>xin chao toi la Hieu</h1>
   <body>
