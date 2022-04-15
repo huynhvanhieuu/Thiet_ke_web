@@ -7,8 +7,7 @@
  <head>
   <body>
    <img src="c.jpg" alt="c" width="660" height="460">
-</body>
-   <img src="c.jpg" alt="c" width="660" height="460">
+   <body>
 <iframe width="860" height="484" src="https://www.youtube.com/embed/uKw8Afv64ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 </html>
