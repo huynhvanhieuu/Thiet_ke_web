@@ -1,6 +1,5 @@
 <html>
 <head>
-  <title>huynhvanhieu</title>
  <head>
 <h1>xin chao toi la Hieu</h1>
   <body>
