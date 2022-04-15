@@ -6,7 +6,7 @@
 <head>
 <style>
 body { 
- background-color: #00ff00
+ background-color: #99ffcc
 }
 </style> 
 </head>
