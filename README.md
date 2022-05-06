@@ -1,6 +1,6 @@
 <html>
  <head>
-   <body background="aaa.png">
+   <body background="aaa.ipg">
 <h1 style="color:#2EFE9A;">xin chào tôi là Huỳnh Văn Hiếu </h1>
   <h2> đây là website đầu tiên của tôi </h2>
   <h2> đang học tập tại trường Cao Đẳng Kỹ Thuật Công nghệ Nha Trang </h2>
