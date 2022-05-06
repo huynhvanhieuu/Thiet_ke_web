@@ -11,7 +11,6 @@
  </head> 
   </body> 
  <table boder=1>
-
 <tr>
     <th>thời gian</th>
     <th>Thứ 2</th>
