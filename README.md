@@ -7,9 +7,7 @@
 <a href="https://huynhvanhieuu.github.io/index2.html"> Học Tập </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
  <a href="https://www.youtube.com/"> Youtube </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.facebook.com/huynhvanhieuu"> facebook </a>
-
-  <img src="aa.png" alt="text" width="100%">
-       <br />
+     
   <h3 align="center"
  </head> 
    <img src="22.jpg" alt="c" width="660" height="460">
