@@ -10,7 +10,7 @@
  }
  </style>
  </head> 
-   <body background="aaa.ipg">
+   <body style="background: url("aaa.ipg")">
     <a href="https://huynhvanhieuu.github.io/index2.html"> Học Tập </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
  <a href="https://www.youtube.com/"> Youtube </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.facebook.com/huynhvanhieuu"> facebook </a> 
