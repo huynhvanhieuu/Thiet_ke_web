@@ -1,5 +1,15 @@
 <html>
  <head>
+ <style>
+ table, th, td {
+	border:2px solid black;
+	border-collapse:collapse;
+ }
+ td {
+	color:blue;
+ }
+ </style>
+ </head> 
    <body background="aaa.ipg">
     <a href="https://huynhvanhieuu.github.io/index2.html"> Học Tập </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
  <a href="https://www.youtube.com/"> Youtube </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -8,7 +18,7 @@
   <h2> đây là website đầu tiên của tôi </h2>
   <h2> đang học tập tại trường Cao Đẳng Kỹ Thuật Công nghệ Nha Trang </h2>
 <img src="22.jpg" alt="c" width="660" height="460">
- </head> 
+ 
   </body> 
  <table boder=1>
 <tr>
