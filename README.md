@@ -6,9 +6,7 @@
   <h2> đang học tập tại trường Cao Đẳng Kỹ Thuật Công nghệ Nha Trang </h2>
 <a href="https://huynhvanhieuu.github.io/index2.html"> Học Tập </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
  <a href="https://www.youtube.com/"> Youtube </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.facebook.com/huynhvanhieuu"> facebook </a>
-     
-  <h3 align="center"
+  <a href="https://www.facebook.com/huynhvanhieuu"> facebook </a> 
  </head> 
    <img src="22.jpg" alt="c" width="660" height="460">
    </html>
