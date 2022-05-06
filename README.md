@@ -7,7 +7,7 @@
  <a href="https://www.youtube.com/"> Youtube </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.facebook.com/huynhvanhieuu"> facebook </a>
  <body background="aa.png">
-  <img src="aa.png" alt="text" width="10%"
+  <img src="aa.png" alt="text" width="100%"
        <br />
   <h3 align="center"
  </head> 
