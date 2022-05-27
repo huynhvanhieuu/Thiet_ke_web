@@ -2,7 +2,7 @@
  <head>
    <meta name="" content=""
          <title>website denign - easy tutorials</title>
-  
+  <link rel="stylesheet"= href="index.css"/>
   </head>
 <body>
   <div class="container">
