@@ -6,7 +6,9 @@
 .container{
   width: 100%
   height: 100vh;
-  background-image: linear-gradient(rgba(0,0,0,0,7)),url(images/background.png);
+  background-image: linear;
+  background: LightGray;
+  gradient(rgba(0,0,0,0,7)),url(images/background.png);
   background-position: center;
   background-size: cover;
   
@@ -70,7 +72,7 @@ button{
   margin-top: 30px;  
 }
 .row {
-  background: black;
+  background: black; 
 }
 .card{
   width: 200px;
