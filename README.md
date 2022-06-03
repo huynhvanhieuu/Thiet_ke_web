@@ -10,9 +10,9 @@
     <img src="https://pngimg.com/uploads/github/github_PNG20.png" class="logo">
     
       <ul>
-        <li><a href="">home</a></li>
-        <li><a href="index2.html">region</a></li>
-        <li><a href="">about</a></li>
+        <li><a href="">Nhà</a></li>
+        <li><a href="index2.html">Học Tập</a></li>
+        <li><a href="">Thông Tin</a></li>
       </ul>
     </nav>
   </div>
