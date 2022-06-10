@@ -59,7 +59,7 @@ h1{
 }
 p{
   color: #fff;
-  font-size: 11px;
+  font-size: 12px;
   line-height: 15px;
 }
 button{
@@ -67,7 +67,7 @@ button{
   color: #000;
   font-size: 12px;
   padding: 12px 0;
-  background: pink;
+  background: Pink;
   border: 0;
   border-radius: 20px;
   uotline: none;
@@ -115,4 +115,7 @@ h5{
 .card p{
   text-shadow: 0 0 15px #000;
   font-size: 8px;
+}
+.col2 p{
+  font-size: 11px;
 }
