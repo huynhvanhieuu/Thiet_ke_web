@@ -1,0 +1,107 @@
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <style>
+            * {
+                box-sizing: border-box;
+                margin: 0;
+                padding: 0;
+            }
+            section {
+                display: flex;
+                justify-content: center;
+                height: 100%;
+            }
+            .container {
+                display: flex;
+                width: 60rem;
+                height: 30rem;
+                margin: auto;
+                background: burlywood;
+            }
+            .nhap {
+                display: flex;
+                justify-content: center;
+                align-items: center;
+                width: 100%;
+                padding: 2em;
+            }
+            input[type="submit"],
+            input[type="reset"] {
+                width: 10rem;
+                padding: .9em 0;
+            }
+            form > * {
+                padding-bottom: 1em;
+            }
+            .button {
+                padding: 0;
+            }
+            .ketqua {
+                display: flex;
+                align-items: center;
+                width: 100%;
+                background: thistle;
+            }
+            @media (max-width: 60rem) {
+                .container {
+                    flex-direction: column;
+                }
+                .content {
+                    display: flex;
+                    flex-direction: column;
+                    justify-content: center;
+                    height: 15rem;
+                }
+            }
+        </style>
+    </head>
+    <body style="background: paleturquoise;">
+        <section>
+            <div class="container">
+                <div class="nhap">
+                    <form>
+                        <div class="name">
+                            <label for="name">Ngữ Văn</label>
+                            <input type="text" name="number" id="ngu-van">
+                        </div>
+                        <div class="name">
+                            <label for="name">Toán</label>
+                            <input type="text" name="number" id="toan"> 
+                            <br>
+                            <br>
+                            <h2>Hạnh Kiểm</h2>
+                            <input type="radio" name="calculation" value="dat">Đạt&nbsp&nbsp
+                            <input type="radio" name="calculation" value="khong">Không đạt&nbsp&nbsp
+                        </div>
+                        <div class="button">
+                            <input type="submit" value="Kiểm tra" id="submit">
+                            <input type="reset" value="Hủy" id="reset">
+                        </div>
+                    </form>
+                </div>
+
+                <div class="ketqua"></div>
+
+            </div>
+        </section>
+        <script type="text/javascript">
+            function myFunction() {
+                var toan = document.getElementById('toan').value;
+                var ngu-van = document.getElementById('ngu-van').value;
+                var grades = document.getElementsByName('grade').value;
+                grades.forEach(grade => {
+                    if (grade.checked === true) {
+                        var result = (parseInt(toan) + parseInt(ngu-van)) / 2;
+                        if(grade.value == "Đạt" && result >= 5){
+                            document.querySelector('.content').textContent = 'Lên Lớp';
+                        } else {
+                            document.querySelector('.content').textContent = 'Ở Lại Lớp';
+                        }
+                    }
+                })
+            }
+</script>
+    </body>
+</html>        
