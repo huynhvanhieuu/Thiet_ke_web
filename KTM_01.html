@@ -22,12 +22,12 @@
             }
             .nhap {
                 display: flex;
-                justify-content: center;
+                justify-content: center;    
                 align-items: center;
                 width: 100%;
                 padding: 2em;
             }
-            input[type="submit"],
+            input[type="button"],
             input[type="reset"] {
                 width: 10rem;
                 padding: .9em 0;
@@ -76,7 +76,7 @@
                             <input type="radio" name="calculation" value="khong">Không đạt&nbsp&nbsp
                         </div>
                         <div class="button">
-                            <input type="submit" value="Kiểm tra" id="submit">
+                            <input type="button" value="Kiểm tra" id="submit" onclick="myFunction()">
                             <input type="reset" value="Hủy" id="reset">
                         </div>
                     </form>
@@ -87,21 +87,21 @@
             </div>
         </section>
         <script type="text/javascript">
-            function myFunction() {
+function myFunction() {
                 var toan = document.getElementById('toan').value;
-                var ngu-van = document.getElementById('ngu-van').value;
-                var grades = document.getElementsByName('grade').value;
+                var nguvan = document.getElementById('ngu-van').value;
+                var grades = document.getElementsByName('calculation');
                 grades.forEach(grade => {
-                    if (grade.checked === true) {
-                        var result = (parseInt(toan) + parseInt(ngu-van)) / 2;
-                        if(grade.value == "Đạt" && result >= 5){
-                            document.querySelector('.content').textContent = 'Lên Lớp';
+                    if (grade.checked == true) {
+                        var result = (Number(toan) + Number(nguvan)) / 2;
+                        if(grade.value == "dat" && result >= 5){
+                            document.querySelector('.ketqua').textContent = 'Lên Lớp';
                         } else {
-                            document.querySelector('.content').textContent = 'Ở Lại Lớp';
+                            document.querySelector('.ketqua').textContent = 'Ở Lại Lớp';
                         }
                     }
                 })
             }
-</script>
+        </script>
     </body>
-</html>        
+</html>
